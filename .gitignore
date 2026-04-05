@@ -1,0 +1,6 @@
+Gemfile.lock
+_site
+*~
+_build
+*.exe
+.DS_Store
